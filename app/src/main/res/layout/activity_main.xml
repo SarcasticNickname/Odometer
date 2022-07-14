@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:textSize="48sp"
         android:layout_gravity="center_horizontal"
+        android:text="12321"
         android:textAppearance="?android:attr/textAppearanceLarge"/>
 
 </LinearLayout>
